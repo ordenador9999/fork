@@ -1,1 +1,6 @@
-Vamos a empezar a practicar con el fork. Primero haz un fork de mi repositorio, luego añade un archivo con tu nombre y haz un pull request a mi repositorio. Ya veremos si lo acepto o no :-)
+hacer Fork:
+1-Voy al repositorio en el que me apetezca colaborar
+2-busco iel icono Fork y clico. De ahi tendre una copia en mi github
+3-github me crea una direccion automaticamente que aprovechare para hacer git clone en git local
+4- En git local ya voy atrabajar los cambios para luego poder hacer un push
+5-Antes de hacer el push debo commitear....etc
